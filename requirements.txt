@@ -1,27 +1,12 @@
-# Application de Backtesting VaR/CVaR - Requirements
-
-# Framework principal
-streamlit==1.35.0
-
-# Manipulation de données
-pandas==2.2.2
-numpy==1.26.4
+# Backtesting VaR/CVaR - Compatible Requirements
+streamlit==1.28.0
+pandas==1.5.3
+numpy==1.24.3
+scipy==1.10.1
+plotly==5.17.0
+matplotlib==3.7.2
+seaborn==0.12.2
+statsmodels==0.14.0
 openpyxl==3.1.2
-xlrd==2.0.1
-
-# Calculs scientifiques et statistiques
-scipy==1.13.0
-statsmodels==0.14.2
-
-# Visualisation
-plotly==5.21.0
-matplotlib==3.8.4
-seaborn==0.13.2
-
-# Utilitaires
-python-dateutil==2.9.0.post0
-pytz==2024.1
-
-# Gestion des dépendances
-wheel==0.43.0
-setuptools==70.0.0
+python-dateutil==2.8.2
+pytz==2023.3
