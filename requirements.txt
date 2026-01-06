@@ -22,14 +22,6 @@ seaborn==0.13.2
 python-dateutil==2.9.0.post0
 pytz==2024.1
 
-
-
 # Gestion des dépendances
 wheel==0.43.0
 setuptools==70.0.0
-
-# Développement (optionnel)
-black==24.4.2
-flake8==7.0.0
-
-pytest==8.2.0
