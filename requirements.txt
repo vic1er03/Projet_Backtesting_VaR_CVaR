@@ -8,6 +8,4 @@ matplotlib
 seaborn
 statsmodels
 openpyxl
-python-dateutil
 pytz
-
